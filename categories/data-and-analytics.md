@@ -40,3 +40,4 @@
 - [umea-data](https://clawskills.sh/skills/simskii-umea-data) - Query open data from Umeå kommun about locations, facilities.
 - [yahoo-data-fetcher](https://clawskills.sh/skills/noypearl-yahoo-data-fetcher) - Fetch real-time stock quotes from Yahoo Finance.
 - [douban-sync-skill](https://clawskills.sh/skills/cosformula-douban-sync-skill) - Export and sync Douban (豆瓣) book/movie/music/game collections.
+- [farmdash-signal-architect](https://clawhub.ai/Parmasanandgarlic/skills/farmdash-signal-architect) - DeFi trade strategy for agents: Trail Heat signals, simulated swap quotes, and Hyperliquid perps research through 84 zero-custody MCP tools.
